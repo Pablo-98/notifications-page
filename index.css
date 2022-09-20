@@ -1,0 +1,13 @@
+*{
+padding: 0;
+margin: 0;
+}
+
+#num-of-notifications-box{
+    display: flex;
+    justify-content: first baseline;
+    color: red;
+}
+h3{
+    color: red;
+}
